@@ -9,4 +9,4 @@ I'm planning to create an input that allows you to create a n number of eyes tha
 
 ## License Information
 
-See file "./LICENSE" 
+See file [LICENSE](https://github.com/jfdlv/following-eyes/blob/main/LICENSE)
