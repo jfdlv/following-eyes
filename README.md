@@ -6,3 +6,7 @@ Projects that tracks the mouse movement and animates a pair of eyes to follow th
 Download/clone the repo and open index.html with your browser.
 
 I'm planning to create an input that allows you to create a n number of eyes that follow the click.
+
+## License Information
+
+See file "./LICENSE" 
